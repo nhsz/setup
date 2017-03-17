@@ -50,6 +50,7 @@
 #### Fonts
 
 - [**`Inconsolata`**](http://levien.com/type/myfonts/inconsolata.html)
+- [**`mononoki`**](http://madmalik.github.io/mononoki/)
 
 #### Shell
 
