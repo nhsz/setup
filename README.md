@@ -1,4 +1,4 @@
-# dotfiles
+# :construction_worker: setup
 
 > By now, this is just a compilation of setup and config files
 
