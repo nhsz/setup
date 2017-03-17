@@ -12,6 +12,7 @@
    - [Atom](#atom)
    - [Sublime Text](#sublime-text)
  - [Terminal Emulator](#terminal-emulator)
+   - [Fonts](#fonts)
    - [Shell](#shell)
    - [Plugins](#plugins)
    - [Theme](#theme)
@@ -45,6 +46,10 @@
 ### Terminal Emulator
 
 - [**`tilix`**](https://gnunn1.github.io/tilix-web/)
+
+#### Fonts
+
+- [**`Inconsolata`**](http://levien.com/type/myfonts/inconsolata.html)
 
 #### Shell
 
