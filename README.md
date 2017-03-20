@@ -11,6 +11,7 @@
  - [Text Editors](#text-editors)
    - [Atom](#atom)
    - [Sublime Text](#sublime-text)
+   - [Linters](#linters)
  - [Terminal Emulator](#terminal-emulator)
    - [Fonts](#fonts)
    - [Shell](#shell)
@@ -42,6 +43,10 @@
 #### Sublime Text
 
 - [**`sublime-config`**](https://github.com/nhquiroz/sublime-config)
+
+#### Linters
+
+- [**`semistandard`**](https://github.com/Flet/semistandard)
 
 ### Terminal Emulator
 
