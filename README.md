@@ -46,28 +46,26 @@
 
 #### Linters
 
-- [**`semistandard`**](https://github.com/Flet/semistandard)
+- [**`standardjs`**](https://github.com/ricardofbarros/linter-js-standard)
 
-### Terminal Emulator
-
-- [**`tilix`**](https://gnunn1.github.io/tilix-web/)
+### Terminal
 
 #### Fonts
 
-- [**`Inconsolata`**](http://levien.com/type/myfonts/inconsolata.html)
 - [**`mononoki`**](http://madmalik.github.io/mononoki/)
 
 #### Shell
 
-- [**`fish`**](https://gnunn1.github.io/tilix-web/)
+- [**`zsh`**](https://github.com/zsh-users/zsh)
 
 #### Plugins
 
 - [**`oh-my-fish`**](https://github.com/oh-my-fish/oh-my-fish/)
+- [**`zsh-nvm`**](https://github.com/lukechilds/zsh-nvm)
 
 #### Theme
 
-- [**`pure`**](https://gnunn1.github.io/tilix-web/)
+- [**`spaceship`**](https://github.com/denysdovhan/spaceship-zsh-theme)
 
 
  
